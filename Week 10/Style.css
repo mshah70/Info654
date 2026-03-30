@@ -18,10 +18,10 @@ a{
     font-weight: bold;
 }
 table{
-    border-bottom: 1px solid #333333;
+    border-radius: 1px solid #333333;
     width: 100%;
-    border-top: #333333;
 }
+
 th, td{
     text-align: left;
     background-color: blanchedalmond;
