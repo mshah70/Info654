@@ -1,7 +1,7 @@
 /* css file for Portfolio project */
 
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 20px;
     background-color: beige;
     color: #333333;
@@ -10,8 +10,26 @@ h1 {
     color: #333333
 }
 h2{
-    color: paleturquoise
+    color:cadetblue
 }
 a{
-    color: paleturquoise
+    color: cadetblue
+}
+table{
+    border-bottom: #333333;
+    width: 100%;
+    border-top: #333333;
+}
+th, td{
+    text-align: left;
+    background-color: blanchedalmond;
+    color: cadetblue;
+}
+
+.card {
+    border: cadetblue;
+    padding: 20px;
+    background-color: beige;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
 }
