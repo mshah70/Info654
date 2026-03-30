@@ -1,0 +1,17 @@
+/* css file for Portfolio project */
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px;
+    background-color: beige;
+    color: #333333;
+}
+h1 {
+    color: #333333
+}
+h2{
+    color: paleturquoise
+}
+a{
+    color: paleturquoise
+}
